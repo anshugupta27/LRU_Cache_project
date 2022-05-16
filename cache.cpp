@@ -1,7 +1,7 @@
 #include<iostream>
 #include<map>
 using namespace std ; 
-
+//cache code start
 struct Node {
 	int data ; 
 	Node * left , * right ; 
